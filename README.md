@@ -1,4 +1,4 @@
-Android Development Learning Resources
+Android Development Resources
 =============================
 
 Supported Languages: EN
